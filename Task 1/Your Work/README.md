@@ -316,14 +316,7 @@ Redirect User
 
 > * **ENTITY RELATIONSHIP DIAGRAM**
 
-<!--
-Insert ER Diagram Here
-
-Suggested Relationship:
-Users (1) -------- (Many) URLs
-
-users.id → urls.user_id
--->
+<img src="images/ERD.png" alt="Entity Relationship Diagram (ERD)">
 
 ---
 
